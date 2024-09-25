@@ -7,5 +7,4 @@ To develop an AI/ML model that can accurately detect and classify skin cancer fr
 The dataset is publicly available on https://www.kaggle.com/competitions/isic-2024-challenge
 
 ## Model Pipeline
-
-
+<img src="https://github.com/shrbh025/Skin-Cancer-Detection/blob/main/PipeLine.png">
