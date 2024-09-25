@@ -8,3 +8,17 @@ The dataset is publicly available on https://www.kaggle.com/competitions/isic-20
 
 ## Model Pipeline
 <img src="https://github.com/shrbh025/Skin-Cancer-Detection/blob/main/PipeLine.png">
+
+## Data Sample
+
+## Model Creation
+
+
+## Evaluation
+
+
+## Output
+
+
+## Report
+Download the complete report [https://github.com/shrbh025/Skin-Cancer-Detection/blob/main/Skin%20Cancer%20Detection.pptx]
