@@ -13,7 +13,7 @@ The dataset is publicly available on https://www.kaggle.com/competitions/isic-20
 <img src="https://github.com/shrbh025/Skin-Cancer-Detection/blob/main/SampleImages.png">
 
 ## Model Creation
-
+<img src="https://github.com/shrbh025/Skin-Cancer-Detection/blob/main/Model.png">
 
 ## Evaluation
 <img src="https://github.com/shrbh025/Skin-Cancer-Detection/blob/main/Eval1.png">
